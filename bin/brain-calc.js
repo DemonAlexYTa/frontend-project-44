@@ -4,7 +4,7 @@ import { greet } from '../src/cli.js'
 
 const ROUNDS_COUNT = 3
 const arOperators = ['+', '-', '*']
-const maxRandomCounter = 38;
+const maxRandomCounter = 38
 
 function playBrainCalc() {
   console.log('Welcome to the Brain Games!')
