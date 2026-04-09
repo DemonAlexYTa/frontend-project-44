@@ -29,7 +29,7 @@ function playBrainCalc() {
       return
     }
   }
-  console.log(`Conguratulations, ${userName}!`)
+  console.log(`Congratulations, ${userName}!`)
 }
 function calculate(num1, num2, operator) {
   switch (operator) {
