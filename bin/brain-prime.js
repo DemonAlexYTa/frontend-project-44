@@ -34,6 +34,6 @@ function playBrainPrime() {
     }
     console.log('Correct!')
   }
-  console.log(`Conguratulations, ${userName}!`)
+  console.log(`Congratulations, ${userName}!`)
 }
 playBrainPrime()
