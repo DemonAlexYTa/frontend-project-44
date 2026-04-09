@@ -31,7 +31,7 @@ function playBraineven() {
 
     console.log('Correct')
   }
-  console.log(`Congratulations, ${userName}!`)
+  console.log(`Conguratulations, ${userName}!`)
 }
 
 playBraineven()
